@@ -1,6 +1,6 @@
 # 🌱 Agro Farming Web App
 
-🚀 **Empowering Farmers
+🚀Empowering Farmers
 
 
 ## 🎯 Purpose
