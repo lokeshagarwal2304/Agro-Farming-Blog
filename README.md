@@ -1,6 +1,7 @@
 # 🌱 Agro Farming Web App
 
-🚀 **Empowering Farmers with Technology!**
+🚀 **Empowering Farmers
+
 
 ## 🎯 Purpose
 The **Agro Farming Web App** is designed to provide **farmers & agricultural enthusiasts** with cutting-edge tools, a thriving community, and real-time insights to enhance farming practices. 🌾🚜
